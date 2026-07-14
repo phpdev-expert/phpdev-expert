@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there 👋 I'm DH Bisht
 
-<!--
-**phpdev-expert/phpdev-expert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Solutions Architect | Backend Lead | Python • LLM • RAG
 
-Here are some ideas to get you started:
+I'm a Backend Lead and AI Engineer with 13+ years of experience building scalable software and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+- TypeScript
+- PHP
+
+**Backend**
+- Django
+- FastAPI
+- Laravel
+- Node.js
+
+**Frontend**
+- React
+- Next.js
+- Vue.js
+
+**AI**
+- OpenAI
+- LangChain
+- LangGraph
+- RAG
+- AI Agents
+- Vector Databases
+
+**DevOps**
+- Docker
+- GitHub Actions
+- Nginx
+- PostgreSQL
+- AWS
+- Hetzner
+
+---
+
+## 🌱 Currently Learning
+
+- MCP (Model Context Protocol)
+- Advanced AI Agents
+- Temporal
+- Local LLMs
+- AI Evaluation
+
+---
+
+
+## 📫 Connect with me
+
+- LinkedIn: https://linkedin.com/in/dhirendra-bisht-developer
