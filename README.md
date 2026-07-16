@@ -244,6 +244,17 @@ Currently focused on:
 
 ---
 
+Some chrome extention I build
+https://chromewebstore.google.com/detail/google-photos-duplicate-r/baafhiocpgpaahonnkhkhbkggbhmefld
+https://chromewebstore.google.com/detail/emaildeliverabilitycom/gkfnmnnamolebeglpbgmofiiegpbbbci
+https://chromewebstore.google.com/detail/amazon-review-request-too/akaobgcedoikjgdlbecjejhdfhdmobph
+https://chromewebstore.google.com/detail/birthday-calendar-exporte/imielmggcccenhgncmpjlehemlinhjjo
+https://chromewebstore.google.com/detail/funnelbot-cf-page-copier/cpiagapooikhbopmlcjnpphhmjiegcpi
+https://chromewebstore.google.com/detail/twitter-ai-bot-auto-like/mnpifalgcldomgdnijcgojfcflbpbfjj
+https://chromewebstore.google.com/detail/group-extractor-for-fb-do/chldekfeeeaolinlilgkeaebbcnkigeo
+https://chromewebstore.google.com/detail/facebook-groups-bulk-post/lnjjcckgbpppdjcijhakcbnkggbdhccj
+https://chromewebstore.google.com/detail/ad-killer-for-quora/ciakjaleedncgfgnpgplpdbmafamimjk
+
 # 🤝 Open to Collaborate
 
 I'm always interested in collaborating on projects involving:
