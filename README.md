@@ -245,6 +245,7 @@ Currently focused on:
 ---
 
 Some chrome extention I build
+
 https://chromewebstore.google.com/detail/google-photos-duplicate-r/baafhiocpgpaahonnkhkhbkggbhmefld
 https://chromewebstore.google.com/detail/emaildeliverabilitycom/gkfnmnnamolebeglpbgmofiiegpbbbci
 https://chromewebstore.google.com/detail/amazon-review-request-too/akaobgcedoikjgdlbecjejhdfhdmobph
